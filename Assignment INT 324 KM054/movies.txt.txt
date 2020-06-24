@@ -1,0 +1,61 @@
+Film,Genre,Rotten_Tomatoes_Ratings,Audience_Ratings,Budget(million$),Yearof_release
+(500) Days of Summer ,Comedy,87,81,8,2009
+12 Rounds ,Action,30,52,20,2009
+127 Hours,Adventure,93,84,18,2010
+17 Again ,Comedy,55,70,20,2009
+2012,Action,39,63,200,2009
+27 Dresses,Comedy,40,71,30,2008
+30 Days of Night,Horror,50,57,32,2007
+30 Minutes or Less,Comedy,43,48,28,2011
+88 Minutes,Drama,5,51,30,2007
+A Dangerous Method,Drama,79,89,20,2011
+A Nightmare on Elm Street,Horror,13,40,35,2010
+A Serious Man ,Drama,89,64,7,2009
+A Very Harold and Kumar Christmas,Comedy,72,71,19,2011
+Abduction,Action,4,46,35,2011
+Across the Universe,Romance,54,84,45,2007
+Adventureland ,Comedy,89,56,10,2009
+Albert Nobbs,Drama,53,43,8,2011
+Alice in Wonderland,Adventure,52,72,200,2010
+Alien vs. Predator -- Requiem,Horror,14,37,40,2007
+Aliens in the Attic ,Adventure,30,46,45,2009
+All About Steve ,Comedy,6,35,15,2009
+All Good Things,Drama,33,64,20,2010
+Amelia ,Adventure,21,35,40,2009
+American Gangster,Thriller,79,87,100,2007
+An Education,Drama,94,78,8,2009
+Anonymous,Drama,46,66,30,2011
+Apollo 18,Horror,23,31,5,2011
+Appaloosa,Action,77,55,20,2008
+Armored ,Action,40,34,20,2009
+Arthur,Comedy,26,49,40,2011
+Australia,Adventure,55,69,78,2008
+Avatar ,Action,83,92,237,2009
+Away We Go ,Comedy,67,74,21,2009
+Baby Mama,Comedy,63,59,70,2008
+Babylon A.D.,Action,7,32,45,2008
+Bad Teacher,Comedy,44,38,20,2011
+Bandslam ,Comedy,79,60,20,2009
+Bangkok Dangerous,Action,9,33,45,2008
+Battle: Los Angeles,Action,35,50,70,2011
+"Be Kind, Rewind",Comedy,65,57,20,2008
+Beastly,Romance,19,50,17,2011
+Bedtime Stories,Comedy,25,63,80,2008
+Beginners,Comedy,84,80,4,2010
+Beowulf,Action,71,52,150,2007
+Beverly Hills Chihuahua,Adventure,41,56,20,2008
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+

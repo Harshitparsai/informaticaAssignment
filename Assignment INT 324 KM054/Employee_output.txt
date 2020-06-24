@@ -1,0 +1,8 @@
+EId,Firstname,Lastname,SALARY,DEPT,Address
+101,,,10000,CSE,98,Green Avenue,Ludhiana,Punjab,145678
+102,,,22000,ECE,56,Model Town, Amritsar,Punjab,144921
+103,,,53000,CSE,450,Dwaraka,Delhi,Delhi,237902
+104,,,47000,IT,222,Bluemoon,Sector8,Gurgaon,256922
+105,,,25000,ECE,52,Kewal Vihar,Jalandhar,Punjab,144001
+201,,,23000,CSE,921,Greenwood,Pune,Pune,345628
+204,,,50000,IT,90,Amrit Vihar,Phagwara,Jalandhar,Punjab,156902
